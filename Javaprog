@@ -1,0 +1,8 @@
+# sample program
+
+Class sample {
+Public static void main (String[] args)
+{
+System.out.println("hai everyone");javapro
+}
+}
